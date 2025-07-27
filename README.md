@@ -45,12 +45,21 @@ Includes:
 | Event Webpage (HTML)             | Static event promo page with schedule, images, and event info.             |
 | Bluetooth Controlled Car (Arduino) | A mini car project controlled via Bluetooth using Arduino UNO & HC-05.     |
 
+
+## How to Use
+
+1. Clone or download the repository.
+2. Open `index.html` in a web browser.
+3. Use `contact.html` to access the contact form.
+4. Customize the HTML content as needed to fit your own portfolio.
+
 ## Author
 
 **Rakshan R**  
-- B.E. Electronics and Communication Engineering  
-- Saveetha Engineering College  
-- [GitHub](https://github.com/Rakshan1609) | [LinkedIn](https://www.linkedin.com/in/r-rakshan)
+Electronics and Communication Engineering  
+GitHub: [Rakshan1609](https://github.com/Rakshan1609)  
+LinkedIn: [r-rakshan](https://www.linkedin.com/in/r-rakshan)
+
 
 ---
 
@@ -59,9 +68,5 @@ Includes:
 If you'd like to collaborate or connect, feel free to reach out via the contact form or LinkedIn.
 
 ---
-
-## License
-
-This project is open-source and available under the [MIT License](LICENSE).
 
 
