@@ -68,5 +68,7 @@ LinkedIn: [r-rakshan](https://www.linkedin.com/in/r-rakshan)
 If you'd like to collaborate or connect, feel free to reach out via the contact form or LinkedIn.
 
 ---
+## License
+This project is open-source and free to use for personal, academic, or non-commercial purposes. No license file is required, but attribution is appreciated.
 
 
